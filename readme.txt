@@ -1,4 +1,4 @@
-** # CRUD Application Project **
+**# CRUD Application Project**
 
 Steps to run the crud application project
 
